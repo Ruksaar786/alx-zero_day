@@ -1,3 +1,3 @@
 My first readme
 
-updating read me 
+updating README.md
